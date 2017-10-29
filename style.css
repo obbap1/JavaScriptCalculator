@@ -1,0 +1,44 @@
+#totalCover{
+    margin-top:80px;
+    margin-left:490px;
+    margin-right: 380px;
+    padding-top:22px;
+    padding-bottom:32px;
+    background-color: #413E3E;
+    border-radius: 12px;
+}
+.btn{
+    padding: 33px;
+    transition: all 0.07s;
+    margin-top:10px;
+    margin-right:8px;
+    margin-left: 36px;
+    border-radius: 10px;
+}
+.whenClicked {
+    transform: scale(1.1);
+}
+#screen {
+    width:448px;
+    height:90px;
+    background: silver;
+    color: #800F0F;
+    margin:14px;
+    border-radius: 12px;
+    word-wrap: break-word;
+    overflow: auto;
+    
+}
+#miniValue {
+    color:blue;
+}
+#buttonEquals {
+    padding: 33px;
+    transition: all 0.07s;
+    margin-top:10px;
+    margin-right:8px;
+    margin-left: 50px;
+    border-radius: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
